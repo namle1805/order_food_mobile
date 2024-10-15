@@ -76,11 +76,11 @@
                 android:textSize="16sp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toStartOf="@+id/plusCartBtn"
-                app:layout_constraintStart_toEndOf="@+id/minusCartBtn"
+                app:layout_constraintStart_toEndOf="@+id/textView27"
                 app:layout_constraintTop_toTopOf="parent" />
 
             <TextView
-                android:id="@+id/minusCartBtn"
+                android:id="@+id/textView27"
                 android:layout_width="28dp"
                 android:layout_height="28dp"
                 android:text="-"
